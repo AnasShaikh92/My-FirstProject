@@ -1,4 +1,4 @@
 # My-FirstProject
 This is my first Git Repo
 <br/>
-Author -Shaikh Anas
+Author -Shaikh Anas Mushtaque
